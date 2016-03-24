@@ -1,0 +1,4 @@
+D:\MyProjs\ParaExample0324\ParaExample0324\bin\Debug\ParaExample0324.exe
+D:\MyProjs\ParaExample0324\ParaExample0324\bin\Debug\ParaExample0324.pdb
+D:\MyProjs\ParaExample0324\ParaExample0324\obj\x86\Debug\ParaExample0324.exe
+D:\MyProjs\ParaExample0324\ParaExample0324\obj\x86\Debug\ParaExample0324.pdb
